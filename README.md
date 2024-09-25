@@ -11,3 +11,7 @@ Docker-compose: 2.13.0
 【参考サイト】
 https://zenn.dev/dragonarrow/articles/b3fbdf1718a812
 https://zenn.dev/dragonarrow/articles/50ba6a04146483
+
+【laravel のインストール時の注意点】
+https://zenn.dev/dragonarrow/articles/50ba6a04146483
+※composer で laravel をインストール後に「mv www/public www/html」コマンドでディレクトリの名を変更する
